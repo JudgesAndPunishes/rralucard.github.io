@@ -97,8 +97,8 @@ menu:
   #categories: /categories/ || th
   archives: /archives/ || archive
   #schedule: /schedule/ || calendar
-  sitemap:
-	path: sitemap.xml
+  sitemap: 
+        path: sitemap.xml
   commonweal: /404/ || heartbeat
 
 # Enable/Disable menu icons.
@@ -407,8 +407,8 @@ gitment:
   lazy: false # Comments lazy loading with a button
   cleanly: false # Hide 'Powered by ...' on footer, and more
   language: # Force language, or auto switch by theme
-  github_user: moonstar_lxf@hotmail.com
-  github_repo: https://github.com/rralucard/rralucard.github.io
+  github_user: rralucard
+  github_repo: rralucard.github.io
   client_id: 7bc85eba74500197e792
   client_secret: fbd9fee48811f56be505fd78efead38c55fbf199
   proxy_gateway: # Address of api proxy, See: https://github.com/aimingoo/intersect
