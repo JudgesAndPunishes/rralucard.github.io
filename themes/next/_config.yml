@@ -97,7 +97,8 @@ menu:
   #categories: /categories/ || th
   archives: /archives/ || archive
   #schedule: /schedule/ || calendar
-  sitemap: path: sitemap.xml
+  sitemap:
+	path: sitemap.xml
   #commonweal: /404/ || heartbeat
 
 # Enable/Disable menu icons.
