@@ -253,7 +253,7 @@
                   {{ min2read(post.content) }}
                 </span>
               {% endif %}
-            </div>
+            分</div>
           {% endif %}
 
           {% if post.description and (not theme.excerpt_description or not is_index) %}
